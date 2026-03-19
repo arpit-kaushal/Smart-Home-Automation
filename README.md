@@ -9,10 +9,10 @@ This project integrates **NodeMCU ESP8266**, **Sinric Pro**, and **Blynk** to bu
 ## 📸 Project Preview
 
 ### 🔌 Circuit Diagram
-![Circuit Diagram](images/circuit.png)
+![Circuit Diagram](circuit.jpeg)
 
 ### 🧪 Prototype Setup
-![Prototype Setup](images/prototype.jpg)
+![Prototype Setup](prototype.jpeg)
 
 > 📌 Place your images inside an `images` folder in your repository.
 
