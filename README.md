@@ -14,7 +14,7 @@ This project integrates **NodeMCU ESP8266**, **Sinric Pro**, and **Blynk** to bu
 ### 🧪 Prototype Setup
 ![Prototype Setup](prototype.jpeg)
 
-> 📌 Place your images inside an `images` folder in your repository.
+
 
 
 
@@ -139,8 +139,8 @@ char auth[] = "YOUR-BLYNK-AUTH";
 Home-Automation/
 │── code.ino
 │── README.md
-│── images/
-│   ├── circuit.png
-│   └── prototype.jpg
+│── circuit.jpeg
+│── prototype.jpeg
+
 
 ```
